@@ -8,7 +8,7 @@
   "contributors": [{ //each contributor will be a seperate object in this array. 
   "name": "John Smith",
   "email": "John.Smith@example.com"
-  //(Optional) URL: JSmith.google.com
+  //(Optional) "URL": "JSmith.google.com"
 }],
   "bin": {
   "module-name": "./bin/module-name"
