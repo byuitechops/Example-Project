@@ -3,7 +3,7 @@
 {
   "name": "Example-Project", //simple descriptive name of your project.
   "version": "01.01.01", //Version Standars still being decided.
-  "description": "Enter a description of what your project does",
+  "description": "This will be an example project for reference as a Template (Same as repository description)",
   "author": "Your Name <you.name@example.org>", // Email is optional
   "contributors": [{ //each contributor will be a seperate object in this array. 
   "name": "John Smith",
